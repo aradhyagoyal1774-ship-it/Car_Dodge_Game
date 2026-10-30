@@ -1,0 +1,3 @@
+# pygame-ce provides the same `import pygame` API and has wheels for current Python.
+# Classic `pygame` also works on older Python versions (3.10–3.12).
+pygame-ce>=2.5.0
